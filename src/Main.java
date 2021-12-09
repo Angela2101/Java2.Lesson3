@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Задание 2");
         System.out.println("AddFruit: ");
         or.addFruit(new Orange(),10);
-        or1.addFruit(new Orange(), 5);
+        or1.addFruit(new Orange(), 6);
         ap.addFruit(new Apple(),15);
         ap1.addFruit(new Apple(),4);
         System.out.println("Box 1: "+or.getWeight());
